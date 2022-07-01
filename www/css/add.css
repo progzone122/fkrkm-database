@@ -1,0 +1,10 @@
+button{
+    padding: 1em;
+}
+button i{
+    color: white;
+    font-size: 1em;
+}
+tbody tr{
+    align-items: center;
+}
